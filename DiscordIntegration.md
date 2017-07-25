@@ -12,7 +12,7 @@ Add the bot to your server
 
 Once the bot is added to the server type in the channel you want the warnings to be at the command **--baymaxRegister** _(You need to have the administrator permission)_
 
-_If you want to change the channel type **--baymaxChangeChannel** in the wanted channel_
+_If you want to change the channel type **--baymaxChangeChannel** in the new channel_
 
 You will then receive a Direct Message with the **key** you need to enter in the **config.yml**
 
