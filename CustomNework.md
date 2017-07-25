@@ -15,7 +15,7 @@ Now you'll have to choose wich category you want to train :
 * 1 | Aimbot
 * 2 | KillAura
 
-Once you've choosen the category you want to train execute the command `/train <category-id> <time-in-seconds>`. And fight **normally** for thet time you've set in the command.
+Once you've choosen the category you want to train, execute the command `/train <category-id> <time-in-seconds>`. And fight **normally** for the time you've set in the command.
 
 Once you've trained **every** category a decent amount of times, go to the `Baymax/AI/train` folder and a `data.csv` file will be there. Copy it. Delete the `network.zip` and `data.csv` contained in the `Baymax/AI/` folder and paste the new `data.csv` file.
 
