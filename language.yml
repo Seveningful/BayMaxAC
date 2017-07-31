@@ -1,0 +1,30 @@
+commands:
+    player-not-connected: "Seems like something's wrong ... Oh that player isn't connected !"
+
+packets:
+    # %d -> number of packets
+    packets-sent: "He sent %d packets in the last 10 seconds "
+
+warnings:
+    # %1$s -> Player Name
+    # %2$s -> Hack name
+    warning: "&e%1$s &7 is suspected of using &c%2$s&7. "
+    # %s -> Percentage
+    sure: "&7I am &6%s &7sure. "
+    image:
+        # %s -> url of the uploaded image
+        uploaded: "You may want to check this graphic log : %s . "
+        not-uploaded: "Check the graphic log in the \"graphics\" folder for more information. "
+    # %d -> ID of the replay
+    replay:
+        saved: "Type /replay %d to watch the replay. "
+        unavailable: "Replay is unavailable. "
+
+replay:
+    loading: "&eLoading replay..."
+    generating: "&eGenerating replay terrain..."
+    loading-entities: "&eLoading entities..."
+    start: "&aReplaying !"
+    cancelled: "&cCancelled replay."
+    finished: "&cReplay finished."
+    non-existent:  "&cInvalid replay ID."
