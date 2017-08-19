@@ -10,7 +10,7 @@ Yes, you do need to download the 200MB library that contains dl4j so you can hav
 
 Once you've downloaded the **BaymaxLIB** start your server and be sure that the `use-public-network` is set to `false` in the **config.yml** file.
 
-Now you'll have to choose wich category you want to train :
+Now you'll have to choose which category you want to train :
 * 0 | Vanilla Aim
 * 1 | Aimbot
 * 2 | KillAura
